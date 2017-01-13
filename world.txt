@@ -1,0 +1,7 @@
+dirt
+water 3 0.25
+road 3 0.15
+water 2 0.30
+water 4 0.45
+road 2 0.10
+dirt
